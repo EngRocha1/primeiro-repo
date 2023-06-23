@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 teste
+=======
+Segunda alteração de arquivo
+
+Terceira alteração de documentos
+>>>>>>> novo_recurso
